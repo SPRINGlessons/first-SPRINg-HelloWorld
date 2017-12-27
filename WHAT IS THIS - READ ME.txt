@@ -1,1 +1,1 @@
-This is Sterter Maven Project without any, but formated to eclipse
+This is Sterter Maven Project without any. Final Real Working Version
