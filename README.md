@@ -1,2 +1,2 @@
-# first-SPRINg-HelloWorld
-first SPRINg HelloWorld
+# First SPRINg HelloWorld example
+This is Sterter Maven Project without any, but formated to eclipse
