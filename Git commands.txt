@@ -5,3 +5,6 @@ git checkout -b somebranch - 								 load some branch from remote repo and swit
 git push -u origin somebranch - 							 push changes from our SOMEBRANCH to remote repo and bind them
 git tag -  													 view current tags
 git tag -a v1.4 -m 'my version 1.4' - 						 add tag	
+git show v1.4 - 											 show tag full information
+git push origin v1.5 - 										 push v1.5 tag to GitHub remote
+git push origin --tags - 									 push all tags to GitHub remote
